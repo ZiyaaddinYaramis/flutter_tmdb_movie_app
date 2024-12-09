@@ -71,7 +71,7 @@ Flutter ile Android platformunda çalışan çok dilli bir film uygulaması geli
 
 1. **Projeyi Klonla**:
    ```bash
-   git clone https://github.com/ZiyaaddinYaramis/Flutter-TMDB-Movie-App.git
+   git clone https://github.com/ZiyaaddinYaramis/flutter_tmdb_movie_app
    ```
 2. **Flutter Bağımlılıklarını Yükle**:
    ```bash
@@ -87,7 +87,7 @@ Flutter ile Android platformunda çalışan çok dilli bir film uygulaması geli
 
 ## Katkı Sağlama
 
-Eğer bu projeye katkı sağlamak isterseniz, GitHub üzerindeki [pull request](https://github.com/ZiyaaddinYaramis/Flutter-TMDB-Movie-App/pulls) ve [issue](https://github.com/ZiyaaddinYaramis/Flutter-TMDB-Movie-App/issues) sayfasını kullanabilirsiniz.
+Eğer bu projeye katkı sağlamak isterseniz, GitHub üzerindeki [pull request](https://github.com/ZiyaaddinYaramis/flutter_tmdb_movie_app/pulls) ve [issue](https://github.com/ZiyaaddinYaramis/flutter_tmdb_movie_app/issues) sayfasını kullanabilirsiniz.
 
 Aşağıdaki adımları izleyerek katkıda bulunabilirsiniz:
 
@@ -187,7 +187,7 @@ Tavoitteena on kehittää Flutterilla toimiva monikielinen elintasovellus Androi
 
 1. **Kloonaa Projekti**:
    ```bash
-   git clone https://github.com/ZiyaaddinYaramis/Flutter-TMDB-Movie-App.git
+   git clone https://github.com/ZiyaaddinYaramis/flutter_tmdb_movie_app.git
    ```
 2. **Asenna Flutter Riippuvuudet**:
    ```bash
@@ -203,7 +203,7 @@ Tavoitteena on kehittää Flutterilla toimiva monikielinen elintasovellus Androi
 
 ## Osallistuminen
 
-Jos haluat osallistua tähän projektiin, voit käyttää GitHubin [pull request](https://github.com/ZiyaaddinYaramis/Flutter-TMDB-Movie-App/pulls) ja [issue](https://github.com/ZiyaaddinYaramis/Flutter-TMDB-Movie-App/issues) -sivuja.
+Jos haluat osallistua tähän projektiin, voit käyttää GitHubin [pull request](https://github.com/ZiyaaddinYaramis/flutter_tmdb_movie_app/pulls) ja [issue](https://github.com/ZiyaaddinYaramis/flutter_tmdb_movie_app/issues) -sivuja.
 
 Voit osallistua seuraavasti:
 
@@ -303,7 +303,7 @@ We aim to develop a multilingual movie application running on the Android platfo
 
 1. **Clone the Project**:
    ```bash
-   git clone https://github.com/ZiyaaddinYaramis/Flutter-TMDB-Movie-App.git
+   git clone https://github.com/ZiyaaddinYaramis/flutter_tmdb_movie_app.git
    ```
 2. **Install Flutter Dependencies**:
    ```bash
@@ -319,7 +319,7 @@ We aim to develop a multilingual movie application running on the Android platfo
 
 ## Contributing
 
-If you would like to contribute to this project, you can use the [pull request](https://github.com/ZiyaaddinYaramis/Flutter-TMDB-Movie-App/pulls) and [issue](https://github.com/ZiyaaddinYaramis/Flutter-TMDB-Movie-App/issues) pages on GitHub.
+If you would like to contribute to this project, you can use the [pull request](https://github.com/ZiyaaddinYaramis/flutter_tmdb_movie_app/pulls) and [issue](https://github.com/ZiyaaddinYaramis/flutter_tmdb_movie_app/issues) pages on GitHub.
 
 You can contribute by following these steps:
 
