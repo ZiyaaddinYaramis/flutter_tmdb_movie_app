@@ -1,0 +1,7 @@
+{
+  "appTitle": "TMDB Film Uygulaması",
+  "popularMovies": "Popüler Filmler",
+  "releaseDate": "Çıkış Tarihi",
+  "errorMessage": "Bir hata oluştu.",
+  "noMoviesFound": "Film bulunamadı."
+}

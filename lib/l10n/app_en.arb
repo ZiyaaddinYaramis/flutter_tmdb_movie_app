@@ -1,0 +1,7 @@
+{
+  "appTitle": "TMDB Movie App",
+  "popularMovies": "Popular Movies",
+  "releaseDate": "Release Date",
+  "errorMessage": "An error occurred.",
+  "noMoviesFound": "No movies found."
+}

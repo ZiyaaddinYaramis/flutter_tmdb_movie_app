@@ -1,0 +1,7 @@
+{
+  "appTitle": "TMDB Elokuvasovellus",
+  "popularMovies": "Suositut elokuvat",
+  "releaseDate": "Julkaisupäivä",
+  "errorMessage": "Tapahtui virhe.",
+  "noMoviesFound": "Elokuvia ei löytynyt."
+}

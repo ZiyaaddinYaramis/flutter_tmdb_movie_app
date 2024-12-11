@@ -1,0 +1,7 @@
+{
+  "appTitle": "TMDB Film App",
+  "popularMovies": "Populära Filmer",
+  "releaseDate": "Utgivningsdatum",
+  "errorMessage": "Ett fel uppstod.",
+  "noMoviesFound": "Inga filmer hittades."
+}
