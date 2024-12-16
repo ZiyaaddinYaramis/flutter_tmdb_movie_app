@@ -1,4 +1,5 @@
 {
+  "@@locale": "fi",
   "appTitle": "TMDB Elokuvasovellus",
   "popularMovies": "Suositut elokuvat",
   "releaseDate": "Julkaisupäivä",

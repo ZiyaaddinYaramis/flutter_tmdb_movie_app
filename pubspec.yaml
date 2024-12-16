@@ -13,29 +13,29 @@ dependencies:
   flutter_dotenv: ^5.0.2 # .env dosyasından veri okumak için kullanılır. Bu paket ile API key gibi gizli bilgileri .env dosyasından okuyabiliriz.
   flutter:
     sdk: flutter
-  # flutter_localizations: # Yerelleştirme desteği için kullanılır.
-  #   sdk: flutter
-  # intl: ^0.19.0 # Metinlerin çevirisini yönetmek ve biçimlendirme işlemleri için kullanılır. Tarih, saat, sayı formatlama gibi işlemler için kullanılır.
+  flutter_localizations: # Yerelleştirme desteği için kullanılır.
+    sdk: flutter
+  intl: ^0.19.0 # Metinlerin çevirisini yönetmek ve biçimlendirme işlemleri için kullanılır. Tarih, saat, sayı formatlama gibi işlemler için kullanılır.
   cupertino_icons: ^1.0.8
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  intl_utils: ^2.5.0 # Yerelleştirme dosyalarını oluşturmak için kullanılır.(arb dosyalarını dart dosyalarına çevirir.) Cok önemli bir paket.
   flutter_lints: ^5.0.0
 
 flutter:
   uses-material-design: true
 
+  # Yerelleştirme ayarları
+  generate: true # Yerelleştirme kodlarının otomatik oluşturulmasını etkinleştirir.
+
   assets:
     - lib/assets/.env # .env dosyasını projeye ekledik.
 
-#   # Yerelleştirme ayarları
-#   generate: true # Yerelleştirme kodlarının otomatik oluşturulmasını etkinleştirir.
-
-# # L10n (Localizations) yapılandırması
-# l10n:
-#   arb-dir: lib/l10n # Yerelleştirme dosyalarının bulunduğu klasör.
-#   template-arb-file: app_en.arb # Varsayılan dil dosyası.
-#   output-localization-file: app_localizations.dart # Oluşturulan dosyanın adı.
-#   output-class: AppLocalizations # Kullanılacak sınıf adı.
+# L10n (Localizations) yapılandırması
+flutter_intl:
+  enabled: true
+  arb-dir: lib/l10n # Yerelleştirme dosyalarının dizini
+  output-dir: lib/generated/intl # Üretilen yerelleştirme dosyalarının dizini
 

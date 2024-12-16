@@ -1,4 +1,5 @@
 {
+  "@@locale": "en",
   "appTitle": "TMDB Movie App",
   "popularMovies": "Popular Movies",
   "releaseDate": "Release Date",
